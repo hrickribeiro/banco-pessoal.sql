@@ -4,5 +4,4 @@ CREATE TABLE Materias_Primas (
     Custo_Por_Kg DECIMAL(10, 2) NOT NULL,
     Observacoes TEXT
 );
-
 SELECT * FROM Materias_Primas;
